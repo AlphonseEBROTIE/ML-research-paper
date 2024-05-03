@@ -10,6 +10,6 @@
 
 -- *Hybrid Variational Autoencoder for Time Series Forecasting :* https://arxiv.org/pdf/2303.07048.pdf
 
-# architecture
+# Architectures
 
 *KAN: Kolmogorov–Arnold Networks* https://arxiv.org/pdf/2404.19756
